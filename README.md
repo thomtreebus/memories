@@ -4,6 +4,9 @@ MERN stack application to store your favorite memories.
 
 Open a terminal in both the client and server directories.
 
-Run npm install to install all packages.
+Run the following commands from both the client and server directories and the application will start.
 
-Run npm start for both the client and server side of the application.
+```npm install```
+```npm start```
+
+
